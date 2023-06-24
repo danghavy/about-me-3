@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gwen
 - 🌱 I’m currently learning web development
-- 📫 Reach me at dnghavy@gmail.com or Gwen#5963 (Discord)
+- 📫 Reach me at dnghavy@gmail.com or @dnhv (Discord)
 
 <!---
 danghavy/danghavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
